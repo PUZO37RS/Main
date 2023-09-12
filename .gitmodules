@@ -1,3 +1,7 @@
 [submodule "sub1"]
 	path = sub1
 	url = https://github.com/PUZO37RS/submodule-1.git
+[submodule "external"]
+	path = external
+	url = https://github.com/PUZO37RS/external.git
+	branch = branches/reports
